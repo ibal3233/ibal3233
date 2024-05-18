@@ -10,8 +10,8 @@ The template is free and open to reuse under a CC BY 4.0 licence.
 
 Enjoy!
 
-Copyright (c) 2015, Demetris Zeinalipour, Department of Computer Science
-University of Cyprus.
+Copyright (c) 2024, Ibrahim Aliyu, Department of Computer Science
+Chonnam National University.
 
 All rights reserved.
 
@@ -28,8 +28,8 @@ To use AR on your site, please add the following code at the end of your website
 <footer>
     <small>
     <center>
-        © YEAR | YOURNAME. Credits: AR template
-    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/ccby.png"/></a>
+        © 2024 | Ibrahim Aliyu. Credits: AR template
+    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/cnu.png"/></a>
     <div style="display:none;" id="credit">[AR template available under Creative Commons CC BY 4.0 licence: 
     <a href="https://github.com/dmsl/academic-responsive-template" target="_blank">
         https://github.com/dmsl/academic-responsive-template 
@@ -57,7 +57,7 @@ Also check out the sister template designated for courses: https://github.com/dm
 
 ## Adopter Sites (in order we became aware of)
 
-1. Dr. Demetris Zeinalipour, University of Cyprus (latest version), http://www.cs.ucy.ac.cy/~dzeina/
+1. Dr. Ibrahim Aliyu, University of Cyprus (latest version), http://www.cs.ucy.ac.cy/~dzeina/
 2. Dr. Pavlos Antoniou, University of Cyprus, Cyprus, https://www.cs.ucy.ac.cy/~csp5pa1/
 3. Dr. Georgios Chatzimilioudis, University of Cyprus, Cyprus, https://www.cs.ucy.ac.cy/~gchatzim/
 4. Dr. Federico Mari, Sapienza University of Rome, Italy, http://mari.di.uniroma1.it/index.html
@@ -121,14 +121,3 @@ Also check out the sister template designated for courses: https://github.com/dm
 62. Rui Zhu. University of California, Santa Barbara, CA, USA, http://www.geog.ucsb.edu/~zhu/
 62. 
 
-
-
-
-
-
-
-
-
-More: 
-
-# ibal3233
